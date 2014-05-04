@@ -86,23 +86,18 @@ to others, and helps to grow the community. The hope is that the recipient of
 the award will use the award stipend as a contribution to travel to a community
 event -- a DjangoCon, a PyCon, a sprint -- and continue in Malcolm's footsteps.
 
-With the help of the community and generous donation from Malcolm's family the
-prize fund had $xxx in it by the end of 2013.
-
 The first winner of the prize, chosen by members of the Django Software,
 Foundation was Curtis Maloney.
-
-By the end of 2013, a total of $7,000 USD was in the fund for future years.
 
 Tax status
 ----------
 
 In November 2013 it was found that the 501(c)(3) status for Django Software
-Foundation had been revoked in May of 2012. This wasn't reported to the
+Foundation had been revoked in May of 2012. This wasn't reported
 until May 2013 and the foundation was never notified. The cause was a late
 filing of three successive tax statuses.
 
-Re-instatement of the 501(c)(3) status is possible and Joseph, with the
+Re-instatement of the 501(c)(3) status is underway and Joseph, with the
 assistance of the board is working to ensure that this reinstatement happens in
 2014.
 
