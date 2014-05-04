@@ -1,7 +1,21 @@
-STATUS: draft.
+.. image:: ./django-logo-positive.png
+   :width: 30%
+   :align: right
 
-Annual Report of the Django Software Foundation, 2013
-=====================================================
+================================
+Django Software Foundation, 2013
+================================
+
+.. raw:: pdf
+
+   PageBreak oneColumn
+
+.. footer::
+
+    Page ###Page###
+
+Annual Report
+=============
 
 This is the first annual report of the Django Software foundation. It covers
 the calendar year of 2013. This report summarizes the finances and activities
@@ -10,25 +24,51 @@ of the Django Software Foundation an independent foundation.
 Board of Directors
 ------------------
 
-Jeremy Dunck
-Adrian Holovaty
-Russell Keith-Magee
-Karen Tracey
+Ending 2013, the Board of Directors were:
 
-President: Russell Keith-Magee
-Secretary: Andy McKay
-Treasurer: Joseph Kocherhans
+* Adrian Holovaty
+* Jeremy Dunck
+* Karen Tracey
+* Russell Keith-Magee (President)
 
-Alex Gaynor served on the board until June of 2013. At that time Jeremy Dunck
-joined the board and Andy McKay joined as secretary.
+Officers:
+
+* Andy McKay (Secretary)
+* Joseph Kocherhans (Treasurer)
+
+Alex Gaynor served on the board until June of 2013. At that time, Jeremy Dunck
+moved from secretary to the board and Andy McKay joined as secretary.
 
 Policies and work
-----------------
+-----------------
 
 Trademark
 ~~~~~~~~~
 
-Russell?
+A license for the `Django Trademark`_ was completed and posted. The license allows the use of the Django trademark under certain circumstances, whilst protecting the project.
+
+Code of conduct
+~~~~~~~~~~~~~~~
+
+A `code of conduct`_ for the Django
+community was `created and adopted`_.
+The code of conduct allows us to best keep with some of our core values:
+documentation and "explicit is better than implicit". We want to maintain a
+vibrant, diverse, and technically excellent community, and we believe that a
+part of that is writing down the standards of behavior we hold ourselves to.
+
+To deal with violations to the code, a `code of conduct committee`_ was
+formed.
+
+Travel grants committee
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The `travel grant committee`_
+is formed to provide travel grants for Django conferences, sprints and other
+events that require travel from community members.
+
+In 2013, it provided travel grants to attendees of DjangoCon US and DjangoCon
+EU.
 
 Malcolm Tredinnick Award
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,30 +92,81 @@ prize fund had $xxx in it by the end of 2013.
 The first winner of the prize, chosen by members of the Django Software,
 Foundation was Curtis Maloney.
 
-Foundation committees
----------------------
-
-Travel committee
-
-Foundation projects
--------------------
-
-...
+By the end of 2013, a total of $7,000 USD was in the fund for future years.
 
 Tax status
 ----------
 
+In November 2013 it was found that the 501(c)(3) status for Django Software
+Foundation had been revoked in May of 2012. This wasn't reported to the
+until May 2013 and the foundation was never notified. The cause was a late
+filing of three successive tax statuses.
 
+Re-instatement of the 501(c)(3) status is possible and Joseph, with the
+assistance of the board is working to ensure that this reinstatement happens in
+2014.
 
 Finances
 --------
 
-Joseph?
++---------------------+------------+------------+-----------+-----------+
+|                     |2013        |2012        |2011       |2010       |
++=====================+============+============+===========+===========+
+|Donations            |$3,8657.81  |$2,1892.75  |$3,0573.28 |$6,587.1   |
++---------------------+------------+------------+-----------+-----------+
+|Memberships          |$17,411.00  |$1,6500     |$500.00    |$0.00      |
++---------------------+------------+------------+-----------+-----------+
+|Other                |$349.23     |$993.39     |$2,417.39  |$1,336.44  |
++---------------------+------------+------------+-----------+-----------+
+|*Total Income*       |$56,418.04  |$39,386.14  |$33,490.67 |$7,923.54  |
++---------------------+------------+------------+-----------+-----------+
+
++---------------------+------------+------------+-----------+-----------+
+|                     |2013        |2012        |2011       |2010       |
++=====================+============+============+===========+===========+
+|Travel grants        |$2,375.00   |$4,015.10   |$0.00      |$2,336.38  |
++---------------------+------------+------------+-----------+-----------+
+|Conferences          |$2,559.42   |$5,799.03   |$1,611.65  |$0.00      |
++---------------------+------------+------------+-----------+-----------+
+|Sprints              |$2,568.60   |$5,592.87   |$2,917.52  |$178.95    |
++---------------------+------------+------------+-----------+-----------+
+|Legal and Accounting |$978        |$2,784.00   |$2,081.50  |$0.00      |
++---------------------+------------+------------+-----------+-----------+
+|Hosting              |$652        |$561.97     |$221.34    |$0.00      |
++---------------------+------------+------------+-----------+-----------+
+|Other                |$3,539.74   |$3,231.45   |$1,216.60  |$808.41    |
++---------------------+------------+------------+-----------+-----------+
+|*Total Expenses*     |$12,673.66  |$21,984.42  |$8,048.61  |$3,323.74  |
++---------------------+------------+------------+-----------+-----------+
+
+Balance at end of 2013: $91,187.96.
+
+Balance of the Malcolm Tredinnick fund at the end of 2013: $7,000.
+
+All money is in US dollars.
 
 Sponsorship
 -----------
 
-Who sponsors the board, who joined.
+Over the course of 2013, the Django Software Foundation sponsored the
+following conferences and events:
 
-Acknowledgements
-----------------
+* Kiwi PyCon
+* PyCon Uruguay
+* PyTennesse
+* Django Cardiff
+* PyCon Philippines
+
+Membership
+----------
+
+Over the course of 2013, the following members were added to the Django
+Software Foundation
+
+* Tim Graham
+
+.. _Django Trademark: https://www.djangoproject.com/trademarks
+.. _code of conduct: https://www.djangoproject.com/conduct/
+.. _created and adopted: https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/
+.. _code of conduct committee: https://www.djangoproject.com/foundation/committees/
+.. _travel grant committee: https://www.djangoproject.com/foundation/committees/>
