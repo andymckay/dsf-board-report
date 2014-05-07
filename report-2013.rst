@@ -17,7 +17,7 @@ Django Software Foundation, 2013
 Annual Report
 =============
 
-This is the first annual report of the Django Software foundation. It covers
+This is the annual report of the Django Software foundation. It covers
 the calendar year of 2013. This report summarizes the finances and activities
 of the Django Software Foundation an independent foundation.
 
@@ -45,7 +45,9 @@ Policies and work
 Trademark
 ~~~~~~~~~
 
-A license for the `Django Trademark`_ was completed and posted. The license allows the use of the Django trademark under certain circumstances, whilst protecting the project.
+A license for the `Django Trademark`_ was completed and posted. The license
+allows the use of the Django trademark under certain circumstances, whilst
+protecting the project.
 
 Code of conduct
 ~~~~~~~~~~~~~~~
@@ -86,8 +88,8 @@ to others, and helps to grow the community. The hope is that the recipient of
 the award will use the award stipend as a contribution to travel to a community
 event -- a DjangoCon, a PyCon, a sprint -- and continue in Malcolm's footsteps.
 
-The first winner of the prize, chosen by members of the Django Software,
-Foundation was Curtis Maloney.
+The first winner was Curtis Maloney who received the award of $1000. The winner
+was chosen by members of the Django Software Foundation.
 
 Tax status
 ----------
@@ -101,8 +103,17 @@ Re-instatement of the 501(c)(3) status is underway and Joseph, with the
 assistance of the board is working to ensure that this reinstatement happens in
 2014.
 
+Volunteers
+----------
+
+A new mailing list for volunteers was created called dsf-volunteers, separate
+from the membership list. Anyone is welcome to join the volunteers mailing
+list.
+
 Finances
 --------
+
+All money is in US dollars.
 
 +---------------------+------------+------------+-----------+-----------+
 |                     |2013        |2012        |2011       |2010       |
@@ -134,11 +145,9 @@ Finances
 |*Total Expenses*     |$12,673.66  |$21,984.42  |$8,048.61  |$3,323.74  |
 +---------------------+------------+------------+-----------+-----------+
 
-Balance at end of 2013: $91,187.96.
+Balance at end of 2013: $98,538.57.
 
-Balance of the Malcolm Tredinnick fund at the end of 2013: $7,000.
-
-All money is in US dollars.
+Balance of the Malcolm Tredinnick fund at the end of 2013: $6,000.
 
 Sponsorship
 -----------
@@ -149,16 +158,52 @@ following conferences and events:
 * Kiwi PyCon
 * PyCon Uruguay
 * PyTennesse
+* DjangoCon AU
+
+These were approved in 2013, although the event was in 2014:
+
 * Django Cardiff
 * PyCon Philippines
+
+The Django Software Foundation funded travel to sprints, including:
+
+* Berlin
+* Stockholm
+* Utrecht
 
 Membership
 ----------
 
 Over the course of 2013, the following members were added to the Django
-Software Foundation
+Software Foundation (in alphabetical order):
 
+* Andy McKay
+* Daniel Lindsley
+* Daniele Procida
+* Marc Tamlyn
+* Paul McMillan
+* Preston Holmes
+* Remco Wendt
+* Simon Meers
 * Tim Graham
+
+Corporate members (in alphabetical order):
+
+* Elysium Digital
+* iXSystems
+* OpenEye Scientific Software
+* Skyveri
+* Tryo Labs
+* Wargaming.net
+
+Projects
+--------
+
+Over the course of 2013, the Django Software Foundation sponsored the following
+Kickstarter projects:
+
+* Karl Fogel's "Producing Open Source Software"
+
 
 .. _Django Trademark: https://www.djangoproject.com/trademarks
 .. _code of conduct: https://www.djangoproject.com/conduct/
