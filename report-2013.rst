@@ -187,7 +187,8 @@ Software Foundation (in alphabetical order):
 * Simon Meers
 * Tim Graham
 
-Corporate members (in alphabetical order):
+The following corporate members were added to the Django Software Foundation
+(in alphabetical order):
 
 * Elysium Digital
 * iXSystems

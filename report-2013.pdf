@@ -16,7 +16,7 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 5 0 obj
-<< /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.f39e7628f9d6baee610d7a579a2509ac 3 0 R >> >> /Rotate 0 /Trans <<  >> 
+<< /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.f39e7628f9d6baee610d7a579a2509ac 3 0 R >> >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 6 0 obj
@@ -38,67 +38,77 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://www.djangoproject.com/foundation/committees/>) >> /Border [ 0 0 0 ] /Rect [ 83.79423 285.7736 188.7682 297.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 13 0 obj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 14 0 obj
-<< /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 15 0 obj
-<< /Outlines 17 0 R /PageLabels 34 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog >>
+<< /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 16 0 obj
-<< /Author () /CreationDate (D:20140504104559+08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title () >>
+<< /Outlines 18 0 R /PageLabels 38 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog >>
 endobj
 17 0 obj
-<< /Count 15 /First 18 0 R /Last 18 0 R /Type /Outlines >>
+<< /Author () /CreationDate (D:20140506201532+08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
 endobj
 18 0 obj
-<< /Count 11 /Dest [ 5 0 R /XYZ 62.69291 703.9201 0 ] /First 19 0 R /Last 19 0 R /Parent 17 0 R /Title (Django Software Foundation, 2013) >>
+<< /Count 17 /First 19 0 R /Last 19 0 R /Type /Outlines >>
 endobj
 19 0 obj
-<< /Count 10 /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /First 20 0 R /Last 29 0 R /Parent 18 0 R /Title (Annual Report) >>
+<< /Count 13 /Dest [ 5 0 R /XYZ 62.69291 703.9201 0 ] /First 20 0 R /Last 20 0 R /Parent 18 0 R /Title (Django Software Foundation, 2013) >>
 endobj
 20 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 693.0236 0 ] /Next 21 0 R /Parent 19 0 R /Title (Board of Directors) >>
+<< /Count 12 /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /First 21 0 R /Last 32 0 R /Parent 19 0 R /Title (Annual Report) >>
 endobj
 21 0 obj
-<< /Count 4 /Dest [ 12 0 R /XYZ 62.69291 492.0236 0 ] /First 22 0 R /Last 25 0 R /Next 26 0 R /Parent 19 0 R 
-  /Prev 20 0 R /Title (Policies and work) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 693.0236 0 ] /Next 22 0 R /Parent 20 0 R /Title (Board of Directors) >>
 endobj
 22 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 465.0236 0 ] /Next 23 0 R /Parent 21 0 R /Title (Trademark) >>
+<< /Count 4 /Dest [ 12 0 R /XYZ 62.69291 492.0236 0 ] /First 23 0 R /Last 26 0 R /Next 27 0 R /Parent 20 0 R 
+  /Prev 21 0 R /Title (Policies and work) >>
 endobj
 23 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 411.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Code of conduct) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 465.0236 0 ] /Next 24 0 R /Parent 22 0 R /Title (Trademark) >>
 endobj
 24 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 315.0236 0 ] /Next 25 0 R /Parent 21 0 R /Prev 23 0 R /Title (Travel grants committee) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 411.0236 0 ] /Next 25 0 R /Parent 22 0 R /Prev 23 0 R /Title (Code of conduct) >>
 endobj
 25 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 243.0236 0 ] /Parent 21 0 R /Prev 24 0 R /Title (Malcolm Tredinnick Award) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 315.0236 0 ] /Next 26 0 R /Parent 22 0 R /Prev 24 0 R /Title (Travel grants committee) >>
 endobj
 26 0 obj
-<< /Dest [ 14 0 R /XYZ 62.69291 765.0236 0 ] /Next 27 0 R /Parent 19 0 R /Prev 21 0 R /Title (Tax status) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 243.0236 0 ] /Parent 22 0 R /Prev 25 0 R /Title (Malcolm Tredinnick Award) >>
 endobj
 27 0 obj
-<< /Dest [ 14 0 R /XYZ 62.69291 666.0236 0 ] /Next 28 0 R /Parent 19 0 R /Prev 26 0 R /Title (Finances) >>
+<< /Dest [ 14 0 R /XYZ 62.69291 729.0236 0 ] /Next 28 0 R /Parent 20 0 R /Prev 22 0 R /Title (Tax status) >>
 endobj
 28 0 obj
-<< /Dest [ 14 0 R /XYZ 62.69291 333.0236 0 ] /Next 29 0 R /Parent 19 0 R /Prev 27 0 R /Title (Sponsorship) >>
+<< /Dest [ 14 0 R /XYZ 62.69291 630.0236 0 ] /Next 29 0 R /Parent 20 0 R /Prev 27 0 R /Title (Volunteers) >>
 endobj
 29 0 obj
-<< /Dest [ 14 0 R /XYZ 62.69291 186.0236 0 ] /Parent 19 0 R /Prev 28 0 R /Title (Membership) >>
+<< /Dest [ 14 0 R /XYZ 62.69291 573.0236 0 ] /Next 30 0 R /Parent 20 0 R /Prev 28 0 R /Title (Finances) >>
 endobj
 30 0 obj
-<< /Count 3 /Kids [ 5 0 R 12 0 R 14 0 R ] /Type /Pages >>
+<< /Dest [ 14 0 R /XYZ 62.69291 246.0236 0 ] /Next 31 0 R /Parent 20 0 R /Prev 29 0 R /Title (Sponsorship) >>
 endobj
 31 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 669.0236 0 ] /Next 32 0 R /Parent 20 0 R /Prev 30 0 R /Title (Membership) >>
+endobj
+32 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 324.0236 0 ] /Parent 20 0 R /Prev 31 0 R /Title (Projects) >>
+endobj
+33 0 obj
+<< /Count 4 /Kids [ 5 0 R 12 0 R 14 0 R 15 0 R ] /Type /Pages >>
+endobj
+34 0 obj
 << /Length 466 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -128,8 +138,8 @@ Q
  
 endstream
 endobj
-32 0 obj
-<< /Length 7008 >>
+35 0 obj
+<< /Length 6801 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -142,7 +152,7 @@ q
 1 0 0 1 62.69291 705.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .320542 Tw (This is the first annual report of the Django Software foundation. It covers the calendar year of 2013. This) Tj T* 0 Tw 3.399147 Tw (report summarizes the finances and activities of the Django Software Foundation an independent) Tj T* 0 Tw (foundation.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.450574 Tw (This is the annual report of the Django Software foundation. It covers the calendar year of 2013. This) Tj T* 0 Tw 3.399147 Tw (report summarizes the finances and activities of the Django Software Foundation an independent) Tj T* 0 Tw (foundation.) Tj T* ET
 Q
 Q
 q
@@ -404,13 +414,6 @@ BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .985366 Tw (The Django Software Foundation cr
 Q
 Q
 q
-1 0 0 1 62.69291 93.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The first winner of the prize, chosen by members of the Django Software, Foundation was Curtis Maloney.) Tj T* ET
-Q
-Q
-q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
@@ -420,41 +423,68 @@ Q
  
 endstream
 endobj
-33 0 obj
-<< /Length 13049 >>
+36 0 obj
+<< /Length 13238 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 750.0236 cm
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.343735 Tw (The first winner was Curtis Maloney who received the award of $1000. The winner was chosen by) Tj T* 0 Tw (members of the Django Software Foundation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Tax status) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 708.0236 cm
+1 0 0 1 62.69291 672.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.273984 Tw (In November 2013 it was found that the 501\(c\)\(3\) status for Django Software Foundation had been) Tj T* 0 Tw .651751 Tw (revoked in May of 2012. This wasn't reported until May 2013 and the foundation was never notified. The) Tj T* 0 Tw (cause was a late filing of three successive tax statuses.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 678.0236 cm
+1 0 0 1 62.69291 642.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.312651 Tw (Re-instatement of the 501\(c\)\(3\) status is underway and Joseph, with the assistance of the board is) Tj T* 0 Tw (working to ensure that this reinstatement happens in 2014.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Volunteers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.329983 Tw (A new mailing list for volunteers was created called dsf-volunteers, separate from the membership list.) Tj T* 0 Tw (Anyone is welcome to join the volunteers mailing list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Finances) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 639.0236 cm
+1 0 0 1 62.69291 540.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All money is in US dollars.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
+1 0 0 1 62.69291 534.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
 1 1 1 rg
 n 0 90 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -674,13 +704,13 @@ n 469.8898 0 m 469.8898 90 l S
 Q
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
+1 0 0 1 62.69291 444.0236 cm
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 438.0236 cm
 Q
 q
-1 0 0 1 62.69291 399.0236 cm
+1 0 0 1 62.69291 294.0236 cm
 1 1 1 rg
 n 0 144 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -1014,50 +1044,43 @@ n 469.8898 0 m 469.8898 144 l S
 Q
 Q
 q
-1 0 0 1 62.69291 399.0236 cm
+1 0 0 1 62.69291 294.0236 cm
 Q
 q
-1 0 0 1 62.69291 381.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Balance at end of 2013: $91,187.96.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 276.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Balance of the Malcolm Tredinnick fund at the end of 2013: $7,000.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Balance at end of 2013: $98,538.57.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 258.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All money is in US dollars.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Balance of the Malcolm Tredinnick fund at the end of 2013: $6,000.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 318.0236 cm
+1 0 0 1 62.69291 231.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Sponsorship) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 288.0236 cm
+1 0 0 1 62.69291 201.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.238443 Tw (Over the course of 2013, the Django Software Foundation sponsored the following conferences and) Tj T* 0 Tw (events:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 282.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 Q
 q
-1 0 0 1 62.69291 282.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 Q
 q
-1 0 0 1 62.69291 270.0236 cm
+1 0 0 1 62.69291 183.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1078,10 +1101,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 264.0236 cm
+1 0 0 1 62.69291 177.0236 cm
 Q
 q
-1 0 0 1 62.69291 252.0236 cm
+1 0 0 1 62.69291 165.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1102,10 +1125,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 159.0236 cm
 Q
 q
-1 0 0 1 62.69291 234.0236 cm
+1 0 0 1 62.69291 147.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1126,10 +1149,47 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 228.0236 cm
+1 0 0 1 62.69291 141.0236 cm
 Q
 q
-1 0 0 1 62.69291 216.0236 cm
+1 0 0 1 62.69291 129.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DjangoCon AU) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (These were approved in 2013, although the event was in 2014:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1150,10 +1210,24 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 210.0236 cm
+1 0 0 1 62.69291 88.86614 cm
 Q
 q
-1 0 0 1 62.69291 198.0236 cm
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 225.0999 0 Td (Page 3) Tj T* -225.0999 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+37 0 obj
+<< /Length 7953 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1174,29 +1248,306 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 198.0236 cm
+1 0 0 1 62.69291 753.0236 cm
 Q
 q
-1 0 0 1 62.69291 171.0236 cm
+1 0 0 1 62.69291 735.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Django Software Foundation funded travel to sprints, including:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Berlin) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Stockholm) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Utrecht) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Membership) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 153.0236 cm
+1 0 0 1 62.69291 624.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Over the course of 2013, the following members were added to the Django Software Foundation) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.052651 Tw (Over the course of 2013, the following members were added to the Django Software Foundation \(in) Tj T* 0 Tw (alphabetical order\):) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 147.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 Q
 q
-1 0 0 1 62.69291 147.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 Q
 q
-1 0 0 1 62.69291 135.0236 cm
+1 0 0 1 62.69291 606.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Andy McKay) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Daniel Lindsley) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Daniele Procida) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Marc Tamlyn) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paul McMillan) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Preston Holmes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Remco Wendt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Simon Meers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1217,32 +1568,235 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 135.0236 cm
+1 0 0 1 62.69291 462.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following corporate members were added to the Django Software Foundation \(in alphabetical order\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Elysium Digital) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (iXSystems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (OpenEye Scientific Software) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Skyveri) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tryo Labs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wargaming.net) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Over the course of 2013, the Django Software Foundation sponsored the following Kickstarter projects:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Karl Fogel's "Producing Open Source Software") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
 Q
 q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 225.0999 0 Td (Page 3) Tj T* -225.0999 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 225.0999 0 Td (Page 4) Tj T* -225.0999 0 Td ET
 Q
 Q
  
 endstream
 endobj
-34 0 obj
-<< /Nums [ 0 35 0 R 1 36 0 R 2 37 0 R ] >>
+38 0 obj
+<< /Nums [ 0 39 0 R 1 40 0 R 2 41 0 R 3 42 0 R ] >>
 endobj
-35 0 obj
+39 0 obj
 << /S /D /St 1 >>
 endobj
-36 0 obj
+40 0 obj
 << /S /D /St 2 >>
 endobj
-37 0 obj
+41 0 obj
 << /S /D /St 3 >>
 endobj
+42 0 obj
+<< /S /D /St 4 >>
+endobj
 xref
-0 38
+0 43
 0000000000 65535 f
 0000000075 00000 n
 0000000140 00000 n
@@ -1259,33 +1813,38 @@ xref
 0000023224 00000 n
 0000023343 00000 n
 0000023553 00000 n
-0000023662 00000 n
-0000023873 00000 n
-0000023951 00000 n
-0000024111 00000 n
-0000024253 00000 n
-0000024376 00000 n
-0000024551 00000 n
-0000024665 00000 n
-0000024798 00000 n
-0000024939 00000 n
-0000025068 00000 n
-0000025196 00000 n
-0000025322 00000 n
-0000025451 00000 n
-0000025566 00000 n
-0000025643 00000 n
-0000026165 00000 n
-0000033230 00000 n
-0000046337 00000 n
-0000046399 00000 n
-0000046436 00000 n
-0000046473 00000 n
+0000023763 00000 n
+0000023872 00000 n
+0000024083 00000 n
+0000024161 00000 n
+0000024321 00000 n
+0000024463 00000 n
+0000024586 00000 n
+0000024761 00000 n
+0000024875 00000 n
+0000025008 00000 n
+0000025149 00000 n
+0000025278 00000 n
+0000025406 00000 n
+0000025534 00000 n
+0000025660 00000 n
+0000025789 00000 n
+0000025917 00000 n
+0000026030 00000 n
+0000026114 00000 n
+0000026636 00000 n
+0000033494 00000 n
+0000046790 00000 n
+0000054800 00000 n
+0000054871 00000 n
+0000054908 00000 n
+0000054945 00000 n
+0000054982 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\321$/5\305\024s\250\031\315\3734\011fUg) (\321$/5\305\024s\250\031\315\3734\011fUg)]
- /Info 16 0 R /Root 15 0 R /Size 38 >>
+ [(A%\216TQ\334\3063\336K\213t\331\334u\343) (A%\216TQ\334\3063\336K\213t\331\334u\343)]
+ /Info 17 0 R /Root 16 0 R /Size 43 >>
 startxref
-46510
+55019
 %%EOF
